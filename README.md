@@ -6,8 +6,10 @@ Provide a short description of the project. Make the README inviting and encoura
   <a href="#development">Development</a> •
   <a href="#architecture--documentation">Documentation</a> •
   <a href="#how-to-contribute">Contribute</a> •
-  <a href="#support--feedback">Support</a> •
+  <a href="#support--feedback">Support</a>
 </p>
+
+---
 
 ## Development
 
