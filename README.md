@@ -1,13 +1,13 @@
 # Project Title
 
-Provide a short description of the project. Make the README inviting and encouraging for anybody who comes across your project and wants to check it out or contribute.
-
 <p align="center">
   <a href="#development">Development</a> •
   <a href="#architecture--documentation">Documentation</a> •
   <a href="#how-to-contribute">Contribute</a> •
   <a href="#support--feedback">Support</a>
 </p>
+
+Provide a short description of the project. Make the README inviting and encouraging for anybody who comes across your project and wants to check it out or contribute.
 
 ---
 
