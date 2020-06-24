@@ -51,7 +51,7 @@ Provide some information about the branching model, naming conventions, developm
 Describe which linting tool you are using and how to install it.
 
 #### How to run tests 
-Desscribe how tests can be run. Do not forget to add instructions if a specific setup is required.
+Describe how tests can be run. Do not forget to add instructions if a specific setup is required.
 
 ## Architecture & Documentation
 
